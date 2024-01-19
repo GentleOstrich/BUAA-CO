@@ -1,0 +1,59 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/University/Study/2022fall/co/P_7/ori/mips_txt_isim_beh.exe -prj D:/University/Study/2022fall/co/P_7/ori/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/W.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/PC.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/NPC.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/MDU.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/M.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/GRF.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/FWD.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/EXT.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/E.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/DATAEXT.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/D.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/CTRL.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/CP0.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/CMP.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/ALU.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/ADD4.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/TC.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/CPU.v" into library work
+WARNING:HDLCompiler:35 - "D:/University/Study/2022fall/co/P_7/ori/../temp/CPU.v" Line 242: <E_mtc0> is already implicitly declared earlier.
+WARNING:HDLCompiler:35 - "D:/University/Study/2022fall/co/P_7/ori/../temp/CPU.v" Line 396: <M_mtc0> is already implicitly declared earlier.
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/Bridge.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/mips.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_7/ori/../temp/mips_tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:/University/Study/2022fall/co/P_7/ori/../temp/CPU.v" Line 445: Port v1_sel is not connected to this instance
+Completed static elaboration
+Compiling module PC
+Compiling module ADD4
+Compiling module D
+Compiling module CTRL
+Compiling module GRF
+Compiling module FWD
+Compiling module EXT
+Compiling module CMP
+Compiling module NPC
+Compiling module E
+Compiling module MDU
+Compiling module ALU
+Compiling module M
+Compiling module DATAEXT
+Compiling module CP0
+Compiling module W
+Compiling module CPU
+Compiling module Bridge
+Compiling module TC
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 22 Verilog Units
+Built simulation executable D:/University/Study/2022fall/co/P_7/ori/mips_txt_isim_beh.exe
+Fuse Memory Usage: 34076 KB
+Fuse CPU Usage: 656 ms

@@ -1,0 +1,73 @@
+`include "defines.v"
+module M(
+	input [31:0] pc_i,
+    input clk,
+    input reset,
+
+    input [31:0] AO_i,
+	input [31:0] RD1_i,
+    input [31:0] RD2_i,
+	input [4:0] a1_i,
+    input [4:0] a2_i,
+    input [4:0] a3_i, 
+    input RegWE_i,
+    input [1:0] Tnew_i,
+    input [31:0] pcadd4_i,
+    input MemWE_i,
+    input [1:0] wd_sel_i,
+	input [1:0] WBHop_i,
+	input LWstall_i,
+	
+	output reg [31:0] pc_o,
+    output reg [31:0] AO_o, // ת��
+	output reg [31:0] RD1_o,
+    output reg [31:0] RD2_o,
+	output reg [4:0] a1_o,
+    output reg [4:0] a2_o,
+    output reg [4:0] a3_o, // ת��
+    output reg RegWE_o, // ת��
+    output reg [1:0] Tnew_o, // ת��
+    output reg [31:0] pcadd4_o,
+    output reg MemWE_o,
+    output reg [1:0] wd_sel_o,
+	output reg [1:0] WBHop_o,
+	output reg LWstall_o
+);
+
+    always @(posedge clk) begin
+        if (reset == 1) begin
+            AO_o <= 0;
+			RD1_o <= 0;
+            RD2_o <= 0;
+            a3_o <= 0;
+            RegWE_o <= 0;
+            Tnew_o <= 0;
+            pcadd4_o <= 0;
+            MemWE_o <= 0;
+            wd_sel_o <= 0;
+			pc_o <= 0;
+            a2_o <= 0;
+			WBHop_o <=0 ;
+			LWstall_o <= 0;
+			a1_o <= 0;
+        end else begin
+            AO_o <= AO_i;
+			RD1_o <= RD1_i;
+            RD2_o <= RD2_i;
+            a3_o <= a3_i;
+            RegWE_o <= RegWE_i;
+            Tnew_o <= Tnew_i - 1;
+            pcadd4_o <= pcadd4_i;
+            MemWE_o <= MemWE_i;
+            wd_sel_o <= wd_sel_i;
+			pc_o <= pc_i;
+			a1_o <= a1_i;
+            a2_o <= a2_i;
+			WBHop_o <= WBHop_i;
+			LWstall_o <= LWstall_i;
+		end
+
+    end
+
+
+endmodule

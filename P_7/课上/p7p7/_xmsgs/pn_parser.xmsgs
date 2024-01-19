@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/ALU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/ALU.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/ALU.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/Bridge.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CMP.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CMP.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CMP.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CP0.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CP0.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CP0.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CPU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CPU.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CPU.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CU.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/CU.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/D.V&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/D.V</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/D.V&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/DATAEXT.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/E.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/E.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/E.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/EXT.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/EXT.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/EXT.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/GRF.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/GRF.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/GRF.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/IFU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/IFU.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/IFU.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/M.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/M.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/M.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/MDU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/MDU.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/MDU.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/NPC.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/NPC.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/NPC.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/SU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/SU.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/SU.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/TC.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/W.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/W.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/W.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/mips.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/mips.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/defines.v&apos; in file &quot;D:/University/Study/2022fall/co/P_7/P7_pipeline_cpu/mips.v&quot; line 1
+</arg>
+</msg>
+
+</messages>
+

@@ -1,0 +1,49 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o D:/University/Study/2022fall/co/P_6/P6/mips_txt_isim_beh.exe -prj D:/University/Study/2022fall/co/P_6/P6/mips_txt_beh.prj work.mips_txt work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/W.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/PC.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/NPC.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/M.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/HILO.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/GRF.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/FWD.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/EXT.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/E.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/DATAEXT.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/D.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/CTRL.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/CMP.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/ALU.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/ADD4.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/mips.v" into library work
+Analyzing Verilog file "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/mips_tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "D:/University/Study/2022fall/co/P_6/P6/../P6_pipeline_cpu/mips.v" Line 363: Port v1_sel is not connected to this instance
+Completed static elaboration
+Compiling module PC
+Compiling module ADD4
+Compiling module D
+Compiling module CTRL
+Compiling module GRF
+Compiling module FWD
+Compiling module EXT
+Compiling module CMP
+Compiling module NPC
+Compiling module E
+Compiling module HILO
+Compiling module ALU
+Compiling module M
+Compiling module DATAEXT
+Compiling module W
+Compiling module mips
+Compiling module mips_txt
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 18 Verilog Units
+Built simulation executable D:/University/Study/2022fall/co/P_6/P6/mips_txt_isim_beh.exe
+Fuse Memory Usage: 32300 KB
+Fuse CPU Usage: 906 ms

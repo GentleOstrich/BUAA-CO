@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/University/Study/2022fall/co/P_7/p7p7/mips.xst" -ofn "D:/University/Study/2022fall/co/P_7/p7p7/mips.syr" 
+xst -intstyle ise -ifn "D:/University/Study/2022fall/co/P_7/p7p7/mips.xst" -ofn "D:/University/Study/2022fall/co/P_7/p7p7/mips.syr" 
