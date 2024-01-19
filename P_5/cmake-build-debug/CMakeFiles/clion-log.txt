@@ -1,1 +1,0 @@
-CMakeLists.txt not found in D:\University\Study\2022fall\co\P_5 Select CMakeLists.txt
